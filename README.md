@@ -3,7 +3,7 @@
 
 # Chirpy
 
-Chirpy is a microblogging API built in Go. Users can create accounts, post “chirps,” follow other users, and manage authentication securely using JWT access tokens and refresh tokens. It also supports **Chirpy Red**, a premium membership program with webhook integration for premium features.
+Chirpy is a microblogging simulator API built in Go, mostly intended for educational purposes. Users can create accounts, post “chirps,” follow other users, and manage authentication securely using JWT access tokens and refresh tokens. It also supports **Chirpy Red**, a premium membership program with webhook integration for premium features.
 
 ---
 

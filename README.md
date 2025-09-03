@@ -30,7 +30,7 @@ Chirpy is a microblogging API built in Go. Users can create accounts, post “ch
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Witnot/Chirpy.git
 cd Chirpy
 ```
 
